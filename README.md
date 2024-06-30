@@ -24,8 +24,8 @@ Text Summarizer is a Streamlit-based application that provides users with the ab
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/dearcoder03/Wifi-Password-Viewer.git
-cd Text-Summarizer
+https://github.com/SimpleCyber/Text-Summary-.git
+cd Text-Summary-
 ```
 
 2. Install the required dependencies:
