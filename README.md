@@ -1,11 +1,3 @@
-### Project Description
-
-**Text Summarizer: Efficient Text and Document Summarization**
-
-Text Summarizer is a powerful application designed to help users efficiently condense large texts and documents into concise summaries. Built with Streamlit for an interactive interface, this tool leverages the txtai library for natural language processing and PyPDF2 for extracting text from PDF documents. Whether you're summarizing typed text or uploaded PDF files, Text Summarizer aims to enhance your reading and comprehension experience by providing quick and accurate summaries.
-
-### README
-
 # Text Summarizer: Efficient Text and Document Summarization
 
 ## Overview
